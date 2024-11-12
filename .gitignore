@@ -1,0 +1,12 @@
+x64/
+.vs/
+*.opensdf
+*.exe
+*.ilk
+*.pdb
+*.tlog
+*.tlog
+*.exe
+*.obj
+*.exe
+*.kq
