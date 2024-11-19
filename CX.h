@@ -18,4 +18,5 @@ private:
     QTimer* timer;
 
     int count = 0;
+    int day = 0;
 };

@@ -23,6 +23,9 @@ void CX::timeout()
     }
     else {
         count = 0;
+        day++;
+        ui.label_3->setText(QString::number(day));
     }
+    //ui.label_3->setText(QString::number(day));
     ui.label->setText(QString::number(count));
 }
